@@ -1,4 +1,4 @@
-## Olá! Sou Gabriel Rocha, Desenvolvedor de software
+## Olá! Sou Gabriel Rocha, Tentando ser um Desenvolvedor de software
 <div align="center">
   <a href="https://github.com/RochaGabriell">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RochaGabriell&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
