@@ -1,6 +1,9 @@
 ## Olá! Sou Gabriel Rocha.
-
+<div>
+<p align="justify">
 Atualmente estou fazendo o curso Tecnólogo em Análise e Desenvolvimento de Sistemas, estou no primeiro módulo, meu foco é me tornar um desenvolvedor Back-End.
+</p>
+</div>
 
 - 🔭 Atualmente estou trabalhando em algo legal
 - 🌱 Atualmente estou aprendendo Python, Django
@@ -11,7 +14,6 @@ Eu programo em:
   <img align="center" alt="Rocha-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rocha-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Rocha-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="Rocha-flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
   <img align="center" alt="Rocha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rocha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
@@ -36,10 +38,10 @@ Como chegar até mim
     <summary>Estatísticas do Perfil do GitHub</summary>
     <br/>
     <a href="https://github.com/RochaGabriell">
-    <img height="192px" src="https://github-readme-stats.vercel.app/api?username=RochaGabriell&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=RochaGabriell&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </a>
     <a href="https://github.com/RochaGabriell">
-    <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaGabriell&layout=compact&langs_count=7&theme=dark"/>
+    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaGabriell&layout=compact&langs_count=7&theme=dark"/>
     </a>
     <br/>
 </details>
