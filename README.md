@@ -8,7 +8,7 @@ Atualmente estou fazendo o curso Tecnólogo em Análise e Desenvolvimento de Sis
 - 🔭 Atualmente estou trabalhando em algo legal
 - 🌱 Atualmente estou aprendendo Python, Django
 
-Eu programo em:
+Linguagens e Ferramentas:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rocha-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
