@@ -1,7 +1,7 @@
 ## Olá! Sou Gabriel Rocha.
 <div>
 <p align="justify">
-Atualmente estou fazendo o curso Tecnólogo em Análise e Desenvolvimento de Sistemas, estou no primeiro módulo, meu foco é me tornar um desenvolvedor Back-End.
+Atualmente estou fazendo o curso Tecnólogo em Análise e Desenvolvimento de Sistemas, estou no segundo módulo, meu foco é me tornar um desenvolvedor Back-End.
 </p>
 </div>
 
