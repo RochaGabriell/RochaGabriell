@@ -6,7 +6,7 @@ Atualmente estou fazendo o curso Tecnólogo em Análise e Desenvolvimento de Sis
 </div>
 
 - 🔭 Atualmente estou trabalhando em algo legal
-- 🌱 Atualmente estou aprendendo Python, Django
+- 🌱 Atualmente estou aprendendo Python e SQL.
 
 Linguagens e Ferramentas:
 
