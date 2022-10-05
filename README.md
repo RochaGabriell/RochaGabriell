@@ -1,4 +1,4 @@
-## Olá! Sou Gabriel Rocha.
+<h1 align="center">Olá! Sou Gabriel Rocha.</h1>
 <div>
 <p align="justify">
 Atualmente estou fazendo o curso Tecnólogo em Análise e Desenvolvimento de Sistemas, estou no segundo módulo, meu foco é me tornar um desenvolvedor Back-End.
@@ -19,7 +19,7 @@ Linguagens e Ferramentas:
 
 Como chegar até mim
 
-<div> 
+<div align="center"> 
   <a href="https://www.instagram.com/__rgabriell/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Kaasty#4770" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gabrielrocha1902@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
