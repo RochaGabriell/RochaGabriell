@@ -1,7 +1,6 @@
 <h1 align="center">Olá! Sou Gabriel Rocha.</h1>
 
-<a href="https://app.daily.dev/RochaGabriell"><img align="right" src="https://api.daily.dev/devcards/724ea2555bd44686ae1a0aeb95da2455.png?r=tbb" width="230" alt="Gabriel Rocha's Dev Card"/></a>
-
+<a href="https://app.daily.dev/RochaGabriell"><img align="right" src="https://github.com/RochaGabriell/RochaGabriell/blob/main/devcard.svg" width="230" alt="Gabriel Rocha's Dev Card"/></a>
 
 <div>
     <p align="justify">
