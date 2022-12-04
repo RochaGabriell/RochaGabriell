@@ -63,12 +63,17 @@ Como chegar até mim
     <div align="center">
         <br />
         <a href="https://github.com/RochaGabriell">
-            <img height="175px"
-                src="https://github-readme-stats.vercel.app/api?username=RochaGabriell&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+            <img width="49.5%"
+                src="https://github-readme-streak-stats.herokuapp.com/?user=RochaGabriell&theme=dark&hide_border=true" />
+        </a>
+        <br />
+        <a href="https://github.com/RochaGabriell">
+            <img width="49.5%"
+                src="https://github-readme-stats.vercel.app/api?username=RochaGabriell&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
         </a>
         <a href="https://github.com/RochaGabriell">
-            <img height="175px"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaGabriell&layout=compact&langs_count=7&theme=dark" />
+            <img width="49.5%"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaGabriell&layout=compact&langs_count=7&theme=dark&hide_border=true" />
         </a>
         <br />
     </div>
