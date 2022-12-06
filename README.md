@@ -84,7 +84,7 @@ Como chegar até mim
     <br />
     <a href="https://github.com/RochaGabriell">
         <img
-            src="https://activity-graph.herokuapp.com/graph/?username=RochaGabriell&bg_color=151515&color=fff&line=00E676&point=fff&hide_border=true" />
+            src="https://github-readme-activity-graph.cyclic.app/graph?username=RochaGabriell&bg_color=151414&color=ffffff&line=f0fff7&point=199a22&area=true&hide_border=true" />
     </a>
 </details>
 
