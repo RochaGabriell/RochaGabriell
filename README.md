@@ -73,7 +73,7 @@ Como chegar até mim
         </a>
         <a href="https://github.com/RochaGabriell">
             <img width="49.5%"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaGabriell&layout=compact&langs_count=10&theme=dark&hide_border=true&hidejupyter%20notebook" />
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaGabriell&layout=compact&langs_count=10&theme=dark&hide_border=true&hide=jupyter%20notebook" />
         </a>
         <br />
     </div>
