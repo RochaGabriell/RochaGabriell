@@ -64,16 +64,16 @@ Como chegar até mim
         <br />
         <a href="https://github.com/RochaGabriell">
             <img width="49.5%"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=RochaGabriell&theme=dark&hide_border=true" />
+                src="https://github-readme-streak-stats.herokuapp.com/?user=RochaGabriell&theme=dark" />
         </a>
         <br />
         <a href="https://github.com/RochaGabriell">
             <img width="49.5%"
-                src="https://github-readme-stats.vercel.app/api?username=RochaGabriell&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
+                src="https://github-readme-stats.vercel.app/api?username=RochaGabriell&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
         </a>
         <a href="https://github.com/RochaGabriell">
             <img width="41.5%"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaGabriell&layout=compact&langs_count=10&theme=dark&hide_border=true&hide=jupyter%20notebook" />
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaGabriell&layout=compact&langs_count=10&theme=dark&hide=jupyter%20notebook" />
         </a>
         <br />
     </div>
@@ -84,7 +84,7 @@ Como chegar até mim
     <br />
     <a href="https://github.com/RochaGabriell">
         <img
-            src="https://github-readme-activity-graph.cyclic.app/graph?username=RochaGabriell&bg_color=151414&color=ffffff&line=f0fff7&point=199a22&area=true&hide_border=true" />
+            src="https://github-readme-activity-graph.cyclic.app/graph?username=RochaGabriell&bg_color=151414&color=ffffff&line=f0fff7&point=199a22&area=true" />
     </a>
 </details>
 
