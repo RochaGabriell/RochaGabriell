@@ -88,6 +88,12 @@ Como chegar até mim
     </a>
 </details>
 
+<details>
+  <summary>Visualizacões de Perfil</summary>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=RochaGabriell&label=PROFILE+VIEWS&style=for-the-badge&color=blue">
+</details>
+
 ## Troféus de Perfil do GitHub
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RochaGabriell&row=1&margin-w=15&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
