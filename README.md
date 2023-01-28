@@ -27,6 +27,10 @@ Linguagens e Ferramentas:
         alt="postgresql" />
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
         alt="sqlite" />
+    <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"
+        alt="Linux" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"
+        alt="Django" />
 </div>
 
 ##
