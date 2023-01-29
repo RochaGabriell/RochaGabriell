@@ -100,4 +100,4 @@ Como chegar até mim
 
 ## Troféus de Perfil do GitHub
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RochaGabriell&row=1&margin-w=15&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RochaGabriell&row=1&margin-w=50&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
