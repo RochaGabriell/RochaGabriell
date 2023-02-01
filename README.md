@@ -4,7 +4,7 @@
 
 <div>
     <p align="justify">
-        Atualmente estou fazendo o curso Tecnólogo em Análise e Desenvolvimento de Sistemas, estou no segundo módulo,
+        Atualmente estou fazendo o curso Tecnólogo em Análise e Desenvolvimento de Sistemas, estou no terceiro módulo,
         meu foco é me tornar um desenvolvedor Back-End.
     </p>
 </div>
