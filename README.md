@@ -9,7 +9,7 @@
     </p>
 </div>
 
-- 🔭 Atualmente estou trabalhando em algo legal
+- 🔭 Atualmente estou trabalhando em algo legal.
 - 🌱 Atualmente estou aprendendo Django e Django Rest.
 
 Linguagens e Ferramentas:
@@ -34,7 +34,6 @@ Linguagens e Ferramentas:
 </div>
 
 ##
-
 Como chegar até mim
 
 <div align="center">
