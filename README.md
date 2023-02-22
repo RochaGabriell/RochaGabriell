@@ -3,7 +3,7 @@
 <a href="https://app.daily.dev/RochaGabriell"><img align="right" src="https://github.com/RochaGabriell/RochaGabriell/blob/main/devcard.svg" width="230" alt="Gabriel Rocha's Dev Card"/></a>
 
 <div>
-    <p align="justify">
+    <p align="justify" >
         Atualmente estou fazendo o curso Tecnólogo em Análise e Desenvolvimento de Sistemas, estou no terceiro módulo,
         meu foco é me tornar um desenvolvedor Back-End.
     </p>
@@ -50,8 +50,7 @@ Como chegar até mim
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             target="_blank"></a>
     <a href="https://t.me/RochaGabriell" target="_blank"><img
-            src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
-            target="_blank"></a>
+            src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
     <a href="https://wa.me/+5589999228477" target="_blank"><img
             src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
@@ -62,7 +61,7 @@ Como chegar até mim
 ## Estatísticas do Github
 
 <details>
-    <summary>Estatísticas do Perfil do GitHub</summary>
+    <summary> Estatísticas do Perfil do GitHub</summary>
     <div align="center">
         <br />
         <a href="https://github.com/RochaGabriell">
@@ -83,8 +82,8 @@ Como chegar até mim
 </details>
 
 <details>
-    <summary>Gráfico de Atividades</summary>
-    <br />
+    <summary> Gráfico de Atividades</summary>
+    <br/>
     <a href="https://github.com/RochaGabriell">
         <img
             src="https://github-readme-activity-graph.cyclic.app/graph?username=RochaGabriell&bg_color=151414&color=ffffff&line=f0fff7&point=199a22&area=true" />
