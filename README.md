@@ -37,21 +37,17 @@ Linguagens e Ferramentas:
 Como chegar até mim
 
 <div align="center">
-    <a href="https://discord.gg/Kaasty#4770" target="_blank"><img
-            src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-            target="_blank"></a>
+    <a href="https://discord.gg/Kaasty#4770"><img
+            src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="mailto:rochagabriell.dev@gmail.com"><img
-            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-            target="_blank"></a>
-    <a href="https://www.instagram.com/rochagabriell.dev/" target="_blank"><img
-            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            target="_blank"></a>
-    <a href="https://www.linkedin.com/in/rochagabriell/" target="_blank"><img
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            target="_blank"></a>
-    <a href="https://t.me/RochaGabriell" target="_blank"><img
+            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.instagram.com/rochagabriell.dev/"><img
+            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/rochagabriell/"><img
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://t.me/RochaGabriell"><img
             src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-    <a href="https://wa.me/+5589999228477" target="_blank"><img
+    <a href="https://wa.me/+5589999228477"><img
             src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
    ![Snake animation](https://github.com/RochaGabriell/RochaGabriell/blob/output/github-contribution-grid-snake.svg)
