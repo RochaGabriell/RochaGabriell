@@ -10,7 +10,7 @@
 </div>
 
 - 🔭 Atualmente estou trabalhando em algo legal.
-- 🌱 Atualmente estou aprendendo Django e Django Rest.
+- 🚀 Atualmente estou aprendendo Django e Django Rest.
 
 Linguagens e Ferramentas:
 
