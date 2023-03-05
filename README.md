@@ -1,9 +1,11 @@
 <img width=100%
     src="https://capsule-render.vercel.app/api?type=waving&text=GabrielRocha&color=0:00BCFF,100:00FF89&height=230&section=header&fontColor=ffffff" />
 
+<!--
 <a href="https://app.daily.dev/RochaGabriell"><img align="right"
         src="https://github.com/RochaGabriell/RochaGabriell/blob/main/devcard.svg" width="230"
         alt="Gabriel Rocha's Dev Card" /></a>
+-->
 
 <div>
     <p align="center">
@@ -13,7 +15,7 @@
         agilidade e qualidade. Acredito que a tecnologia é uma ferramenta valiosa para otimizar processos, automatizar
         tarefas e criar novos produtos e serviços.
     </p>
-    <img width="75%"
+    <img width="100%"
         src="https://github.com/RochaGabriell/RochaGabriell/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
