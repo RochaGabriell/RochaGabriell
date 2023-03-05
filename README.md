@@ -1,5 +1,5 @@
 <img width=100%
-    src="https://capsule-render.vercel.app/api?type=waving&text=GabrielRocha&color=0:00BCFF,100:00FF89&height=230&section=header&fontColor=ffffff" />
+    src="https://capsule-render.vercel.app/api?type=waving&text=Gabriel Rocha&color=0:00BCFF,100:00FF89&height=230&section=header&fontColor=ffffff" />
 
 <!--
 <a href="https://app.daily.dev/RochaGabriell"><img align="right"
