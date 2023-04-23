@@ -40,11 +40,11 @@
 <br />
 
 <div align="center">
-    <img width="49%" height="195px"
+    <img width="49%"
         src="https://github-readme-stats.vercel.app/api?username=RochaGabriell&show_icons=true&count_private=true&hide_border=true&title_color=00FF89&icon_color=00FF89&text_color=ffffff&bg_color=0d1117" />
-    <img width="41%" height="195px"
+    <img width="41%"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaGabriell&layout=compact&hide_border=true&title_color=00FF89&text_color=ffffff&bg_color=0d1117&hide=jupyter%20notebook" />
-    <img height="310px"
+    <img width="90%"
         src="https://github-readme-activity-graph.cyclic.app/graph?username=RochaGabriell&bg_color=0d1117&color=ffffff&line=f0fff7&point=199a22&area=true" />
 </div>
 
