@@ -45,7 +45,7 @@
     <img width="41%"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaGabriell&layout=compact&hide_border=true&title_color=00FF89&text_color=ffffff&bg_color=0d1117&hide=jupyter%20notebook" />
     <img width="90%"
-        src="https://github-readme-activity-graph.cyclic.app/graph?username=RochaGabriell&bg_color=0d1117&color=ffffff&line=f0fff7&point=199a22&area=true" />
+        src="https://github-readme-activity-graph.vercel.app/graph?username=RochaGabriell&bg_color=0d1117&color=ffffff&line=f0fff7&point=199a22&area=true" atl="https://github.com/ashutosh00710/github-readme-activity-graph" />
 </div>
 
 <br />
