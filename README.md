@@ -15,8 +15,9 @@
         agilidade e qualidade. Acredito que a tecnologia é uma ferramenta valiosa para otimizar processos, automatizar
         tarefas e criar novos produtos e serviços.
     </p>
-    <img width="100%"
-        src="https://github.com/RochaGabriell/RochaGabriell/blob/output/github-contribution-grid-snake.svg" />
+    <!-- 
+        <img width="100%" src="https://github.com/RochaGabriell/RochaGabriell/blob/output/github-contribution-grid-snake.svg" /> 
+    -->
 </div>
 
 <br />
