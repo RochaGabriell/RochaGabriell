@@ -9,7 +9,7 @@
 
 <div>
     <p align="center">
-        Atualmente estou fazendo o curso Tecnólogo em Análise e Desenvolvimento de Sistemas, estou no terceiro módulo,
+        Atualmente estou fazendo o curso Tecnólogo em Análise e Desenvolvimento de Sistemas, estou no quarto módulo,
         meu foco é me tornar um desenvolvedor Back-End.
         Diariamente, busco aprimorar minhas habilidades para entregar soluções que agreguem cada vez mais valor, com
         agilidade e qualidade. Acredito que a tecnologia é uma ferramenta valiosa para otimizar processos, automatizar
@@ -24,9 +24,11 @@
 
 <div align="center" style="display: inline_block">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" />
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
