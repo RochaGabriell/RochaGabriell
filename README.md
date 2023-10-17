@@ -12,6 +12,12 @@
 
 <br />
 
+<details>
+    
+  <summary>Alguns Detalhes</summary>
+
+  <br />
+
 <div align="center" style="display: inline_block">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
@@ -47,5 +53,7 @@
     <a href="https://t.me/RochaGabriell"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
     <a href="https://wa.me/+5589999228477"><img src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
+
+</details>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF89,100:00BCFF&height=120&section=footer" />
