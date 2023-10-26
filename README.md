@@ -54,6 +54,6 @@
     <a href="https://wa.me/+5589999228477"><img src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
-</details>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF89,100:00BCFF&height=120&section=footer" />
+
+</details>
