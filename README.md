@@ -2,11 +2,11 @@
 
 <div>
     <p align="center">
-        Atualmente estou fazendo o curso Tecnólogo em Análise e Desenvolvimento de Sistemas, estou no quarto módulo,
-        meu foco é me tornar um desenvolvedor Back-End.
-        Diariamente, busco aprimorar minhas habilidades para entregar soluções que agreguem cada vez mais valor, com
-        agilidade e qualidade. Acredito que a tecnologia é uma ferramenta valiosa para otimizar processos, automatizar
-        tarefas e criar novos produtos e serviços.
+        Atualmente estou fazendo o curso Tecnólogo em Análise e Desenvolvimento de Sistemas, sou um desenvolvedor de
+        software especializado em aplicações Flutter, focado em transformar ideias em aplicativos funcionais. 
+        Em cada projeto, aplico práticas de código limpo e arquitetura sólida, seguindo os princípios 
+        da Clean Architecture. Embora meu foco principal seja o desenvolvimento mobile, também possuo uma compreensão sólida de 
+        desenvolvimento web. 
     </p>
 </div>
 
@@ -20,7 +20,6 @@
 
 <div align="center" style="display: inline_block">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" />
@@ -30,7 +29,6 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
-    <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 </div>
 
