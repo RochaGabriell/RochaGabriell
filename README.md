@@ -12,12 +12,6 @@
 
 <br />
 
-<details>
-    
-  <summary>Alguns Detalhes</summary>
-
-  <br />
-
 <div align="center" style="display: inline_block">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" />
@@ -35,9 +29,9 @@
 <br />
 
 <div align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RochaGabriell&show_icons=true&count_private=true&hide_border=true&title_color=00FF89&icon_color=00FF89&text_color=ffffff&bg_color=0d1117" />
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaGabriell&layout=compact&hide_border=true&title_color=00FF89&text_color=ffffff&bg_color=0d1117&hide=jupyter%20notebook" />
-    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=RochaGabriell&bg_color=0d1117&color=ffffff&hide_border=true&line=f0fff7&point=199a22&area=true" atl="https://github.com/ashutosh00710/github-readme-activity-graph" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RochaGabriell&show_icons=true&count_private=true&hide_border=true" />
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaGabriell&layout=compact&hide_border=true&hide=jupyter%20notebook" />
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=RochaGabriell&bg_color=ffffff&color=0000ff&hide_border=true&line=808080&point=0000ff&area=true" atl="https://github.com/ashutosh00710/github-readme-activity-graph" />
 </div>
 
 <br />
@@ -54,5 +48,3 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF89,100:00BCFF&height=120&section=footer" />
-
-</details>
