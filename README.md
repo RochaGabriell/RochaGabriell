@@ -2,11 +2,11 @@
 
 <div>
     <p align="center">
-        Atualmente estou fazendo o curso Tecnólogo em Análise e Desenvolvimento de Sistemas, sou um desenvolvedor de
-        software especializado em aplicações Flutter, focado em transformar ideias em aplicativos funcionais. 
-        Em cada projeto, aplico práticas de código limpo e arquitetura sólida, seguindo os princípios 
-        da Clean Architecture. Embora meu foco principal seja o desenvolvimento mobile, também possuo uma compreensão sólida de 
-        desenvolvimento web. 
+        Atualmente, sou Tech Lead em uma pequena empresa de TI, onde sou responsável por gerenciar o ciclo 
+        completo de desenvolvimento de software, desde o planejamento até o deploy. Além de liderar a equipe de 
+        desenvolvimento, cuido da infraestrutura, hospedagem, versionamento de código, qualidade do 
+        código e automação de processos. Minha principal atuação é em back-end, mas também coordeno o trabalho dos 
+        desenvolvedores front-end e garanto a integração contínua e a entrega eficiente do produto.
     </p>
 </div>
 
